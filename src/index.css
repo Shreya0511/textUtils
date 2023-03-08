@@ -1,0 +1,20 @@
+.accordion-button::after{
+  filter : invert(1);
+  color : #53738d;
+}
+
+.navbar-brand{
+  font-size : 30px;
+  color : rgb(6, 52, 146);
+  font-weight : bold;
+
+}
+
+.collapsed{
+  font-weight : bold;
+  color :rgb(35, 105, 143);
+}
+
+.container{
+  padding-bottom : 2rem;
+}
